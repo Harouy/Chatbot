@@ -6,3 +6,4 @@ classes.pkl
 words.pkl
 pyvenv.cfg
 intents.json
+.gitignore
