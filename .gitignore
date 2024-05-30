@@ -1,0 +1,8 @@
+lib
+include
+Scripts
+chatbot_model.h5
+classes.pkl
+words.pkl
+pyvenv.cfg
+intents.json
